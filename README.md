@@ -1,6 +1,8 @@
 # 🚀 Campfire: An ESP32 Minimal WebSocket Chat
 
-A ultra-lightweight, responsive, and mobile-friendly chat server running directly on an ESP32 (or other Microctonrollers ofc). It uses **WebSockets** for real-time communication and serves a dark-mode web interface.
+A ultra-lightweight, responsive, and mobile-friendly chat server running directly on an ESP32 (or other Microctonrollers ofc). It features a real-time web interface and a physical status display via I²C OLED.
+
+![OLED Panel with Chat](image.jpeg)
 
 ## ✨ Features
 
